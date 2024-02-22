@@ -7,16 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="AppModel.fs" />
-    <Compile Include="Library.fs" />
+    <Compile Include="Program.fs" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Elmish.WPF" Version="3.5.8" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\UI\UI.csproj" />
   </ItemGroup>
 
 </Project>
