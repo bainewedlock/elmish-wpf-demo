@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ElmishWpfDemo", "ElmishWpfDemo\ElmishWpfDemo.fsproj", "{3AF2CEC3-0DCB-41AD-B661-F9BA37E56F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{748592D9-2094-46EC-BC59-4B953B5C4CC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3AF2CEC3-0DCB-41AD-B661-F9BA37E56F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF2CEC3-0DCB-41AD-B661-F9BA37E56F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF2CEC3-0DCB-41AD-B661-F9BA37E56F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748592D9-2094-46EC-BC59-4B953B5C4CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748592D9-2094-46EC-BC59-4B953B5C4CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748592D9-2094-46EC-BC59-4B953B5C4CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748592D9-2094-46EC-BC59-4B953B5C4CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
