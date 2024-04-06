@@ -40,4 +40,4 @@ module Program =
 
     let main window =
         Program.mkSimpleWpf init update bindings
-        |> Program.runWindow window
+        |> Program.startElmishLoop ElmConfig.Default window
